@@ -5,7 +5,3 @@ Ce dépôt contient :
 - Le rapport du projet (`rapport.md`)
 - Les codes sources et scripts
 - Les données expérimentales
-
-## Auteur
-Fofie Vigol Brayann
-
